@@ -1,0 +1,82 @@
+# Security - Private Keys
+*.key
+*.pem
+*.crt
+*.p12
+
+# Logs
+*.log
+*.pid
+logs/
+*.log.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.old
+tmp/
+temp/
+
+# System files
+.directory
+Thumbs.db
+
+# Sensitive configs
+*_private.conf
+*_secret.conf
+secrets/
+
+# Generated files
+qr_*.png
+*.qr
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Network dumps
+*.pcap
+*.cap
+
+# Backup files
+backups/
+*.tar.gz
+*.zip
+
+# Test files
+test_*.conf
+test_*.json
+
+# Local configuration overrides
+local.conf
+override.conf
+
+# SSH keys
+id_rsa
+id_rsa.pub
+authorized_keys
+
+# WireGuard private configs
+privatekey
+presharedkey

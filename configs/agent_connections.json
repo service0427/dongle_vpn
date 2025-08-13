@@ -1,0 +1,18 @@
+{
+  "cc531098392b0353": {
+    "name": "TestAgent1",
+    "interface": "wg0",
+    "port": 51820,
+    "public_key": "Yjs1LPN0sfu9PWyhVw9AzSEl2x2FYso8ei5CQ8tIvBY=",
+    "private_key": "aARFYJXb6kOeZVeZT457W+HRWlDdAWQI4Ji1BbNBqGA=",
+    "ip_address": "10.0.0.2/32",
+    "dongle": "enp0s21f0u4",
+    "created": "2025-08-06T20:36:59.688850",
+    "last_seen": "2025-08-06T20:36:59.688874",
+    "status": "active",
+    "traffic": {
+      "rx": 0,
+      "tx": 0
+    }
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "agent1",
+    "vpn_port": 51820,
+    "vpn_subnet": "10.0.0.0/24",
+    "vpn_ip": "10.0.0.1",
+    "interface": "enp0s21f0u4",
+    "interface_ip": "192.168.16.100",
+    "socks_port": 1080,
+    "routing_table": 200,
+    "status": "active"
+  },
+  {
+    "id": "agent2",
+    "vpn_port": 51821,
+    "vpn_subnet": "10.1.0.0/24",
+    "vpn_ip": "10.1.0.1",
+    "interface": "enp0s21f0u3",
+    "interface_ip": "192.168.14.100",
+    "socks_port": 1081,
+    "routing_table": 201,
+    "status": "ready"
+  },
+  {
+    "id": "agent3",
+    "vpn_port": 51822,
+    "vpn_subnet": "10.2.0.0/24",
+    "vpn_ip": "10.2.0.1",
+    "interface": "eno1",
+    "interface_ip": "222.101.90.78",
+    "socks_port": 1082,
+    "routing_table": 202,
+    "status": "ready"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "5c2fa472": {
+    "name": "temp_5c2fa472",
+    "public_key": "STV3Rx1A7tnSFpanY+1OOZwCvvOv/65G+FSyPQfqhg4=",
+    "private_key": "aLZ5sMZO8tEwUL3OKso61oIXYcU1KGNPdFeklInZG3E=",
+    "allowed_ips": "10.0.0.2/32",
+    "vpn_port": 51820,
+    "type": "temporary",
+    "token": "NpS8y5kx0YTYpQ95tmaneCk4L5d351K6XgXvq6TQkAc",
+    "created": "2025-08-06T20:32:52.011653",
+    "expires": "2025-08-07T20:32:52.011628",
+    "status": "active"
+  },
+  "c9196c57": {
+    "name": "temp_c9196c57",
+    "public_key": "8XlQ0LR5YKxDnOGZIrSFve43x3WHd6fLMzgBsWTJamU=",
+    "private_key": "qHZQuO+Idaxvsgmw3NKlHnHlaXwCb5RreYVFzWtSVHY=",
+    "allowed_ips": "10.0.0.3/32",
+    "vpn_port": 51820,
+    "type": "temporary",
+    "token": "XfhFOGskKFyGG2EwC4koC-lT0w5Tn7TvDR6hjIzX5H0",
+    "created": "2025-08-06T20:33:21.264316",
+    "expires": "2025-08-06T22:33:21.264290",
+    "status": "active"
+  },
+  "2149839d": {
+    "name": "temp_2149839d",
+    "public_key": "Kibv6j6ZxVnvFAMur2kOMPDPQxzjJzS5KphzNzrILT4=",
+    "private_key": "MCuFCc57S6EtjmhbchZ7qx+xuadvhBJlsR1O5lDxOkc=",
+    "allowed_ips": "10.0.0.4/32",
+    "vpn_port": 51820,
+    "type": "temporary",
+    "token": "PTl30A9Kt0TVMjmMQm1L01Wo__viUED0XiFj4DBvR30",
+    "created": "2025-08-06T20:33:21.321518",
+    "expires": "2025-08-06T22:33:21.321492",
+    "status": "active"
+  },
+  "9a6a7c2e": {
+    "name": "scheduled_9a6a7c2e",
+    "public_key": "g+oYj9aaOvsKtDr6X/yLD2C0Ut/Zfa+2xGsRESQFJiQ=",
+    "private_key": "8GQY0FzLyGKQ6mVwyWlREzd8SHI7DGa1DJpRX+SHnUs=",
+    "allowed_ips": "10.0.0.5/32",
+    "vpn_port": 51820,
+    "type": "scheduled",
+    "start_time": "2025-08-07T09:00:00.456834",
+    "end_time": "2025-08-07T18:00:00.456834",
+    "status": "pending"
+  }
+}

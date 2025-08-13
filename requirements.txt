@@ -1,0 +1,22 @@
+# Core dependencies
+flask>=3.0.0
+qrcode>=7.4.2
+pillow>=10.0.0
+
+# Networking
+requests>=2.31.0
+urllib3>=2.0.0
+
+# System monitoring
+psutil>=5.9.0
+
+# Configuration
+pyyaml>=6.0
+
+# Optional: Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Optional: Development
+black>=23.0.0
+flake8>=6.0.0
